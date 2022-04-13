@@ -26,3 +26,4 @@ git clone https://github.com/craigshoemaker/html-css-javascript-getting-started
 
 A list of links to resources used throughout this course is available on the [Resources](resources.md) page.
 # demo-web-localstorage
+https://hoang-dac-hung.github.io/demo-web-localstorage/
